@@ -1,0 +1,8 @@
+[user]
+	username = roadhump
+	name = Aliaksei
+	location = Belarus, Minsk
+[commit]
+	gpgsign = true
+[aliases]
+	github = roadhump
